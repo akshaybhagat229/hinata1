@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 AK is my favourite
+=======
+hello kanchan today is monday
+>>>>>>> AK
